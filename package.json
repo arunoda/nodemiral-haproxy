@@ -1,6 +1,6 @@
 {
   "name": "nodemiral-haproxy",
-  "version": "0.1.5",
+  "version": "0.1.0",
   "description": "Haproxy for Nodemiral",
   "main": "index.js",
   "dependencies": {
